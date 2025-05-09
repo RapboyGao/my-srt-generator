@@ -74,10 +74,10 @@ if __name__ == "__main__":
         SubtitleItem(timeMinute=33, timeSecond=4.23, text='更多的管乐加入齐奏，钢琴以华丽的回应作答。尽管这段主题开始时完全重复了其首次出现，但钢琴部分很快转向不同的调性。'),
         SubtitleItem(timeMinute=33, timeSecond=33.01, text='钢琴右手的俏皮跳跃被一些人比作驴叫，为结尾段落带来了幽默与轻松感，在这部大体上很严肃的协奏曲中提供了片刻怡人的喘息机会。'),
         SubtitleItem(timeMinute=34, timeSecond=4.02, text='这段钢琴听起来像回旋曲主题，但我们很快意识到它并不相同。或许贝多芬在为我们准备什么。'),
-        # SubtitleItem(timeMinute=0000, timeSecond=0000, text='___'),
-        # SubtitleItem(timeMinute=0000, timeSecond=0000, text='___'),
-        # SubtitleItem(timeMinute=0000, timeSecond=0000, text='___'),
-        # SubtitleItem(timeMinute=0000, timeSecond=0000, text='___'),
+        SubtitleItem(timeMinute=34, timeSecond=37.0, text='答案揭晓：是另一段短华彩。似乎地面在我们脚下移动；突然，钢琴在新的节奏模式下高速启动。'),
+        SubtitleItem(timeMinute=34, timeSecond=52.47, text='聆听钢琴的轻快音符如何与长笛、双簧管和圆号的持续长音形成对比，定音鼓的滚奏点缀其间。木管伴奏随后推动音乐继续向前。'),
+        SubtitleItem(timeMinute=35, timeSecond=29.12, text='乐团以活力四射的切分节奏开始了最后的冲刺。乐团与独奏者昂首阔步，冲向最后的重复和弦。'),
+        SubtitleItem(timeMinute=35, timeSecond=52.17, text='    '),
     ]
 
     try:
